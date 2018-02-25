@@ -5,3 +5,7 @@ Một chương trình nhỏ chuyển số thành chữ
 * python 3
 
 * tkinter
+
+# Demo
+
+![Demo](/demo.png)
